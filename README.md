@@ -6,6 +6,6 @@
 * 파일명은 **Jupyter Notebook : Image Classification_Jupyter.ipynb** 입니다.
 * 그리고 타 파일들은 첫 화면에 보시다시피 모두 업로드해놓았습니다. models.py, train.py, test.py, mymodel.pth이 바로 그것입니다.
 
+![image_jupyter](https://user-images.githubusercontent.com/37537208/52957347-d15b0f80-33d4-11e9-9d45-b56742869ead.PNG)
 
-
-* 위 Jupyter Notebook 파일에서도 알 수 있듯이, 정확도는 약 98% ~ 99%로 측정되었습니다.
+* 위 Jupyter Notebook 파일에서도 알 수 있듯이, 정확도는 약 99%로 측정되었습니다.
