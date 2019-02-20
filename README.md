@@ -11,3 +11,4 @@
 * 위 Jupyter Notebook 파일의 스크린샷에서도 알 수 있듯이, 정확도는 약 99%로 측정되었습니다.
 
 * 아래는 모델 파일을 다운받을 수 있는 링크입니다.  
+https://drive.google.com/open?id=1w0jqTiDBDg_5W4F3yWGErwfOS6gz8AD-
